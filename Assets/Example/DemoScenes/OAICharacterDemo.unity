@@ -8736,6 +8736,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Character (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4562015874881371914, guid: f2b1aedcf44e04e4d8f5c330def07e7f, type: 3}
+      propertyPath: behaviors.Array.size
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4562015874881371915, guid: f2b1aedcf44e04e4d8f5c330def07e7f, type: 3}
       propertyPath: m_LocalPosition.x
       value: 3.98
@@ -12690,7 +12694,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1191100988}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.79539883, y: 1.8246478, z: 5.3040414}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -15719,12 +15723,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4562015874881371914, guid: f2b1aedcf44e04e4d8f5c330def07e7f, type: 3}
       propertyPath: behaviors.Array.size
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4562015874881371914, guid: f2b1aedcf44e04e4d8f5c330def07e7f, type: 3}
       propertyPath: behaviors.Array.data[1]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 11400000, guid: e6a29a29a4cc8534cb67b2ece2a438bc, type: 2}
     - target: {fileID: 4562015874881371914, guid: f2b1aedcf44e04e4d8f5c330def07e7f, type: 3}
       propertyPath: behaviors.Array.data[0]
       value: 
@@ -20344,6 +20348,25 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4003804723947526, guid: fc6f3424666dfda45bcbadbbf42e5968, type: 3}
   m_PrefabInstance: {fileID: 1937213167}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1941864744 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4562015874881368311, guid: f2b1aedcf44e04e4d8f5c330def07e7f, type: 3}
+  m_PrefabInstance: {fileID: 1465356532}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1941864745
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1941864744}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad201f82b2eae5544aaecaf32e147834, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Description: '[Subject] has a dog. The dog is next to [Subject]. [Subject] loves
+    dogs and baking cookies. [Subject] is married to Chad. Chad is cheating on [Subject].'
 --- !u!1001 &1941985648
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -22375,6 +22398,25 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4153231348813984, guid: 807bf6650795ad04395313d04ebe88c5, type: 3}
   m_PrefabInstance: {fileID: 2115486876}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2127067305 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4562015874881368311, guid: f2b1aedcf44e04e4d8f5c330def07e7f, type: 3}
+  m_PrefabInstance: {fileID: 777712532}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2127067306
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2127067305}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad201f82b2eae5544aaecaf32e147834, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Description: '[Subject] is married to Emma. [Subject] is cheating on Emma. [Subject]
+    is rich, but he has no friends. '
 --- !u!1001 &2130158170
 PrefabInstance:
   m_ObjectHideFlags: 0
