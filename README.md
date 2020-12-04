@@ -9,6 +9,8 @@ This is intended as a simple showcase of OpenAI in Unity, but I am not affiliate
 
 ## Examples
 
+[![](http://img.youtube.com/vi/Va6PBIz1BxY/0.jpg)](http://www.youtube.com/watch?v=Va6PBIz1BxY "OpenAI Unity Demo")
+
 In the Example/DemoScenes folder you can find two demo scenes with examples of how this can be used. You need Beta access to OpenAI and a custom ApiKey from https://beta.openai.com/docs/developer-quickstart/your-api-keys 
 This can be copied into an EngineSO.
 
