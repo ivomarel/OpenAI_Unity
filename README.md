@@ -5,7 +5,7 @@ An extension of the C# .NET wrapper from OkGoDoIt as can be found on https://git
 *Tested with Unity 2020.1.4f1*
 
 ## Important!
-This is intended as a simple showcase of OpenAI in Unity, but I am not affiliated with OpenAI in any way, nor can I guarantee any future updates/support on this project. If you'd like to contribute or have any questions, feel free to contact me with any questions on the OpenAI Slack.
+This is intended as a simple showcase of OpenAI in Unity, but I am not affiliated with OpenAI in any way, nor can I guarantee any future updates/support on this project. Also, future updates can potentially break previous projects, as I am considering some structural changes to the system. If you'd like to contribute or have any questions, feel free to contact me with any questions on the OpenAI Slack.
 
 ## Examples
 
